@@ -2,15 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-03T15:17:59 IST" name="Default suite" finished-at="2024-03-03T15:17:59 IST" duration-ms="99">
+  <suite started-at="2024-03-03T15:27:59 IST" name="Default suite" finished-at="2024-03-03T15:27:59 IST" duration-ms="94">
     <groups>
     </groups>
-    <test started-at="2024-03-03T15:17:59 IST" name="Default test" finished-at="2024-03-03T15:17:59 IST" duration-ms="99">
+    <test started-at="2024-03-03T15:27:59 IST" name="Default test" finished-at="2024-03-03T15:27:59 IST" duration-ms="94">
       <class name="basic.BabaSexTest">
-        <test-method signature="demo()[pri:0, instance:basic.BabaSexTest@4dbb42b7]" started-at="2024-03-03T15:17:59 IST" name="demo" finished-at="2024-03-03T15:17:59 IST" duration-ms="15" status="PASS">
+        <test-method signature="demoTest()[pri:0, instance:basic.BabaSexTest@4dbb42b7]" started-at="2024-03-03T15:27:59 IST" name="demoTest" finished-at="2024-03-03T15:27:59 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demo -->
+        </test-method> <!-- demoTest -->
       </class> <!-- basic.BabaSexTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
